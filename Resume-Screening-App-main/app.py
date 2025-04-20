@@ -6,7 +6,6 @@
 import random  # make sure this is at the top of your script
 import streamlit as st
 import pickle
-import PyPDF2
 import re
 
 # Load model and vectorizer
